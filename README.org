@@ -1,6 +1,4 @@
-#+title: Balboa ROS
-
-This is a ROS platform for the [[https://www.pololu.com/product/3575][Balboa 32U4 Balancing Robot]].
+#+title: Balboa Balance
 
 * Installation
 Make sure you have [[https://platformio.org/][PlatformIO]] installed.
