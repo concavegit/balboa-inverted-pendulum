@@ -1,0 +1,8 @@
+image: python:2.7
+
+before_script:
+  - pip install -U platformio
+
+build:
+  stage: build
+  script: pio run
